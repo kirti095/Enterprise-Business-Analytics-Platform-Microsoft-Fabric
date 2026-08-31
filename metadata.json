@@ -1,0 +1,6 @@
+{
+  "name": "Fabric Analytics Capstone Portal",
+  "description": "An interactive, full-stack workspace demonstrating an end-to-end business intelligence capstone project on Microsoft Fabric, complete with ETL pipelines, SQL & Python playgrounds, and Power BI dashboard simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
